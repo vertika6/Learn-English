@@ -6,7 +6,7 @@ It also has spelling corrector option .
 We can also get the synonym of the words which can be used to enhance our text and writings.
 
 
-#Tools used for Project Development
+# Tools used for Project Development
 
 Python (3.6)
 NLTK
