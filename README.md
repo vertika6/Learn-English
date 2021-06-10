@@ -10,5 +10,14 @@ We can also get the synonym of the words which can be used to enhance our text a
 
 Python (3.6)
 NLTK
-Pyspell
+Pyspellchecker
+TextBlob
+Wordnet
 Flask
+Postman
+
+The project has clientApp.py file which has flask code written in it.
+The project working can be checked on Postman.
+Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
+
+Thankyou!
